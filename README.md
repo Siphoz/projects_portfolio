@@ -13,10 +13,11 @@ Technical Skills: Python, SQL, AWS, Snowflake, Machine & Deep Learning,
 Cost Data Consultant @ Heieneken Global, Amsterdam (Jan 2024 - Present)
 
 #### Key Responsibilities
-- Building and maintaining cost estimation models using Python, SQL, and Power BI.
-- Conducting exploratory data analysis (EDA) to identify trends in cost data and support CAPEX decision-making.
+- Building and maintaining costing database (Cleopatra database).
+- Building cost models scripts using Groovy Java.
+- Conducting exploratory data analysis (EDA) in Python to identify trends in cost data and support CAPEX decision-making.
 - Generating automated Cost Control & Cash Flow reports for live projects, reducing manual effort.
-- Developing interactive dashboards and reports in Power BI & Python, providing actionable insights to senior management.
+- Developing interactive dashboards and reports in Power BI, providing actionable insights to senior management.
   
 #### Highlight Project: Capital Cost Estimate (CCE) - Capability Developemnt Project
 - Developed and deployed machine learning models to enhance cost forecasting, improving estimation accuracy by 80%.
@@ -41,3 +42,12 @@ Publication
 Used Python to train over 100 machine learning models which estimated the cost of valves based on a suite of over 30 variables. We found variables can be used to accurately estimate the cost with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring steel conditions measurements allows us to disentangle key interactions between the environment and the body.
 
 
+Collected, processed, and analyzed cost data for 10,000+ equipment in the Oil & Gas industry, impacting over 10,000 cost models.
+Developed a Deep Learning Python model to predict valve costs using limited training data, applying supervised deep learning techniques.
+Built data-driven cost models leveraging Decision Trees to enhance cost estimation accuracy and efficiency.
+Key Project: Cost Estimation for Valves Using Machine Learning
+Designed a data-driven strategy for predicting valve costs using Python and Decision Trees, improving cost characterization and estimation accuracy.
+Trained 100+ machine learning models on a dataset with 30+ cost-driving variables, achieving high predictive accuracy (R² = 0.91).
+Identified key cost drivers and optimized feature selection, leading to automated, flexible, and scalable cost estimation methodologies.
+Discovered that smaller valves were estimated with greater accuracy than larger ones, helping refine cost modeling approaches.
+Used steel condition inference to analyze interactions between environmental factors and material properties, improving cost prediction reliability.
